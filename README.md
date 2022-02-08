@@ -21,7 +21,7 @@
 ![Inkscape](https://img.shields.io/badge/-Inkscape-141a20?style=flat&logo=inkscape)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-![github stats](https://github-readme-stats.vercel.app/api?username=svatas&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svatas&layout=compact&exclude_repo=svatas.github.io&theme=gotham)](https://github.com/svatas/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=svatas&theme=swift&show_icons=true&count_private=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svatas&layout=compact&exclude_repo=svatas.github.io&theme=swift)](https://github.com/svatas/github-readme-stats)
 
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-svatopluk.vit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:svatopluk.vit@gmail.com)
