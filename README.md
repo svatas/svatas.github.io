@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Hi there 👋 I'm Svatopluk <img align="right" src="https://avatars.githubusercontent.com/u/2070628?s=96&v=4">
+### 👨🏻‍ &nbsp;About Me
+- 💻 I'm currently working for company doing business in EDI communication
+- 🌱 I’m currently constantly learning IT technologies and how to use them in real life
 
-You can use the [editor on GitHub](https://github.com/svatas/svatas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 🛠 &nbsp;Tech Stack
+![Manjaro](https://img.shields.io/badge/-Manjaro-141a20?style=flat&logo=manjaro)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-141a20?style=flat&logo=windows)&nbsp;
+![Android](https://img.shields.io/badge/-Android-141a20?style=flat&logo=android)\
+![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Pascal](https://img.shields.io/badge/-Pascal-141a20?style=flat&logo=lazarus&logoColor=1572B6)&nbsp;
+![Grav](https://img.shields.io/badge/-Grav-141a20?style=flat&logo=grav)&nbsp;
+![Joomla](https://img.shields.io/badge/-Joomla-141a20?style=flat&logo=joomla)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code)&nbsp;
+![Atom](https://img.shields.io/badge/-Atom-141a20?style=flat&logo=atom&logoColor=007ACC)&nbsp;
+![LibreOffice](https://img.shields.io/badge/-LibreOffice-141a20?style=flat&logo=libreoffice)&nbsp;
+![GIMP](https://img.shields.io/badge/-Gimp-141a20?style=flat&logo=gimp)&nbsp;
+![Inkscape](https://img.shields.io/badge/-Inkscape-141a20?style=flat&logo=inkscape)&nbsp;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ⚙️ &nbsp;GitHub Analytics
+![github stats](https://github-readme-stats.vercel.app/api?username=svatas&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svatas&layout=compact&exclude_repo=svatas.github.io&theme=gotham)](https://github.com/svatas/github-readme-stats)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/svatas/svatas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 📫 &nbsp;Connect with Me
+[![gmail](https://img.shields.io/badge/-svatopluk.vit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:svatopluk.vit@gmail.com)
+[![twitter](https://img.shields.io/badge/-SvatoplukVit-0e3e55?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SvatoplukVit)
