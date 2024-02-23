@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Svatopluk <img align="right" src="https://avatars.githubusercontent.com/u/2070628?s=96&v=4">
 ### 👨🏻‍ &nbsp;About Me
-- 💻 I'm currently working for company doing business in EDI communication
+- 💻 I'm currently working for company doing business in petrochemical industry
 - 🌱 I’m currently constantly learning IT technologies and how to use them in real life
 
 ### 🛠 &nbsp;Tech Stack
